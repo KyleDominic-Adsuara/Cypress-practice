@@ -3,6 +3,7 @@
     "cypress": "^12.10.0"
   },
   "dependencies": {
-    "cypress-real-events": "^1.7.6"
+    "cypress-real-events": "^1.7.6",
+    "junit-report-merger": "^6.0.3"
   }
 }
